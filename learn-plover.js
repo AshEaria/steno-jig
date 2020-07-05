@@ -13,18 +13,23 @@
 		"Long Vowel Chords",
 		"Diphthong Chords",
 		"Vowel Disambiguator Chords",
+		"Cumulative 1",
 		"The Missing Keys",
 		"The Remaining Missing Letters",
 		"Review Through Missing Letters",
+		"Cumulative 2",
 		"Digraphs",
 		"Review Through Digraphs",
 		"Common Compound Clusters",
 		"Review Through Common Compound Clusters",
+		"Cumulative 3",
 		"Common Briefs 1-20",
 		"Common Briefs 21-40",
 		"Common Briefs 41-60",
 		"Common Briefs 61-80",
 		"Common Briefs 81-100",
+		"Common Briefs 1-100",
+		"All words"
 	];
 
 	var Plover = TypeJig.WordSets.LearnPlover;
