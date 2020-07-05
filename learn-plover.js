@@ -783,7 +783,7 @@
 		'pong', 'among', 'bring', 'young', 'fang',
 		'flung', 'gang', 'belong',
 		'change', 'range', 'hinge', 'lounge', 'plunge',
-		'cringe', 'tinge', 'fringe', 'derange', 'grunge', 'syringe'
+		'cringe', 'tinge', 'fringe', 'derange', 'grunge', 'syringe',
 		'hemp', 'trump', 'rump', 'romp', 'ramp',
 		'pump', 'camp', 'cramp', 'tamp', 'pomp',
 		'curve', 'carve', 'serve', 'swerve', 'starve',
